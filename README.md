@@ -147,6 +147,10 @@ streamlit run app.py
 
 ---
 
+# PowerBi Dashboard
+<img width="1318" height="739" alt="image" src="https://github.com/user-attachments/assets/bf3d40a5-2ab8-41df-88b8-760f787b8fad" />
+
+
 # Author
 
 **Nikhila Devaraj**
